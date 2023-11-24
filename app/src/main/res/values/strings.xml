@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS201904018</string>
+    <string name="heroes_name">name</string>
+    <string name="detail">detail</string>
+    <string name="watch">watch</string>
+    <string name="name">name</string>
+    <string name="judul">j</string>
+    <string name="read">Watch</string>
+    <string name="favourite">Read</string>
+</resources>
